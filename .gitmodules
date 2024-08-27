@@ -7,3 +7,6 @@
 [submodule "FrontEnd"]
 	path = FrontEnd
 	url = https://github.com/ibrahimkayroky/speedoTransfer-FrontEnd
+[submodule "Android"]
+	path = Android
+	url = https://github.com/ibrahimkayroky/speedoTransfer-Android

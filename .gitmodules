@@ -1,3 +1,6 @@
 [submodule "BackEnd"]
 	path = BackEnd
 	url = https://github.com/ibrahimkayroky/speedoTransfer-BackEnd
+[submodule "IOS"]
+	path = IOS
+	url = https://github.com/ibrahimkayroky/speedoTransfer-IOS.git
